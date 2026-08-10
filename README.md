@@ -1,2 +1,2 @@
-# Suspens-o-ativa
+# Suspensao ativa
 Repositório do projeto de reposição ativa baseada no sistema (Quarter Car)
